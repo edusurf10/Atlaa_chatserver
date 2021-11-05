@@ -1,5 +1,5 @@
 {
-  "name": "chat server",
+  "name": "chat-server",
   "version": "1.0.0",
   "description": "Server websocket",
   "main": "index.js",
