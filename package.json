@@ -1,14 +1,14 @@
 {
-  "name": "server",
+  "name": "chat server",
   "version": "1.0.0",
   "description": "Server websocket",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "starting": "nodemon server.js"
   },
-  "author": "",
+  "author": "Luiz Eduardo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",

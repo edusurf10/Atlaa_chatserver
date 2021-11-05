@@ -105,8 +105,6 @@ io.on('connection', (socket) => {
   });
 });
 
-// app.get('/', (req, res) => res.send('Hello World'));
-
 const port = process.env.PORT || 4000;
 
 server.listen(port, () => console.log(`Servidor rodando na porta -> ${port}!`));
